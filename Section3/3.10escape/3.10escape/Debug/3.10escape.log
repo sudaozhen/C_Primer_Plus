@@ -1,0 +1,4 @@
+﻿  escape.c
+e:\c_primer_plus\section3\3.10escape\3.10escape\escape.c(13): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  e:\c_primer_plus\section3\3.10escape\3.10escape\escape.c(13): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  3.10escape.vcxproj -> E:\C_Primer_Plus\Section3\3.10escape\Debug\3.10escape.exe

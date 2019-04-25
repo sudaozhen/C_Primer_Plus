@@ -1,0 +1,4 @@
+﻿  pound.c
+e:\c\section5\5.15pound\5.15pound\pound.c(12): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+  5.15pound.vcxproj -> E:\c\Section5\5.15pound\Debug\5.15pound.exe
+  5.15pound.vcxproj -> E:\c\Section5\5.15pound\Debug\5.15pound.pdb (Partial PDB)

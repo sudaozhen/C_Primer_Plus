@@ -1,0 +1,4 @@
+﻿  overflow.c
+e:\cproject\overflow\overflow\overflow.c(5): warning C4056: 浮点常量算术溢出
+e:\cproject\overflow\overflow\overflow.c(5): warning C4756: 常量算法中溢出
+  overflow.vcxproj -> E:\Cproject\overflow\Debug\overflow.exe

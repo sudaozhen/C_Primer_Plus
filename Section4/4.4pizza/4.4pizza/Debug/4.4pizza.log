@@ -1,0 +1,6 @@
+﻿  pizza.c
+e:\c_primer_plus\section4\4.4pizza\4.4pizza\pizza.c(9): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  e:\c_primer_plus\section4\4.4pizza\4.4pizza\pizza.c(9): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+e:\c_primer_plus\section4\4.4pizza\4.4pizza\pizza.c(10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\c_primer_plus\section4\4.4pizza\4.4pizza\pizza.c(11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  4.4pizza.vcxproj -> E:\C_Primer_Plus\Section4\4.4pizza\Debug\4.4pizza.exe

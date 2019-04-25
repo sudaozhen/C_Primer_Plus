@@ -1,0 +1,7 @@
+﻿  floatcnv.c
+e:\c\4.12floatcnv\4.12floatcnv\floatcnv.c(10): warning C4477: “printf”: 格式字符串“%.1e”需要类型“double”的参数，但可变参数 3 拥有了类型“long”
+e:\c\4.12floatcnv\4.12floatcnv\floatcnv.c(10): warning C4477: “printf”: 格式字符串“%.1e”需要类型“double”的参数，但可变参数 4 拥有了类型“long”
+e:\c\4.12floatcnv\4.12floatcnv\floatcnv.c(12): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“double”
+e:\c\4.12floatcnv\4.12floatcnv\floatcnv.c(12): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 2 拥有了类型“double”
+  4.12floatcnv.vcxproj -> E:\c\4.12floatcnv\Debug\4.12floatcnv.exe
+  4.12floatcnv.vcxproj -> E:\c\4.12floatcnv\Debug\4.12floatcnv.pdb (Partial PDB)

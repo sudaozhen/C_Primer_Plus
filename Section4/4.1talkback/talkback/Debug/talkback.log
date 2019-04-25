@@ -1,0 +1,6 @@
+﻿  talkback.c
+e:\c\talkback\talkback\talkback.c(20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\c\talkback\talkback\talkback.c(17): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  e:\c\talkback\talkback\talkback.c(17): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  talkback.vcxproj -> E:\c\talkback\Debug\talkback.exe
+  talkback.vcxproj -> E:\c\talkback\Debug\talkback.pdb (Partial PDB)

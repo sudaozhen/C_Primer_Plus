@@ -1,0 +1,6 @@
+﻿  print2.c
+e:\c\print2\print2\print2.c(14): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 2 拥有了类型“__int64”
+  e:\c\print2\print2\print2.c(14): note: 请考虑在格式字符串中使用“%lld”
+  e:\c\print2\print2\print2.c(14): note: 请考虑在格式字符串中使用“%I64d”
+  print2.vcxproj -> E:\c\print2\Debug\print2.exe
+  print2.vcxproj -> E:\c\print2\Debug\print2.pdb (Partial PDB)

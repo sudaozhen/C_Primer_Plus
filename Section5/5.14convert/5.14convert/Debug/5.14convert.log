@@ -1,0 +1,8 @@
+﻿  convert.c
+e:\c\section5\5.14convert\5.14convert\convert.c(9): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\c\section5\5.14convert\5.14convert\convert.c(12): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\c\section5\5.14convert\5.14convert\convert.c(13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\c\section5\5.14convert\5.14convert\convert.c(15): warning C4305: “=”: 从“int”到“char”截断
+e:\c\section5\5.14convert\5.14convert\convert.c(17): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+  5.14convert.vcxproj -> E:\c\Section5\5.14convert\Debug\5.14convert.exe
+  5.14convert.vcxproj -> E:\c\Section5\5.14convert\Debug\5.14convert.pdb (Partial PDB)

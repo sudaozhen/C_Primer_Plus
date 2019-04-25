@@ -1,0 +1,5 @@
+﻿  floaterr.c
+e:\c\floaterr\floaterr\floaterr.c(7): warning C4305: “=”: 从“double”到“float”截断
+e:\c\floaterr\floaterr\floaterr.c(8): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  floaterr.vcxproj -> E:\c\floaterr\Debug\floaterr.exe
+  floaterr.vcxproj -> E:\c\floaterr\Debug\floaterr.pdb (Partial PDB)
