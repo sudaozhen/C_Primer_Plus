@@ -1,0 +1,5 @@
+﻿  electric.c
+e:\c\section7\7.4electric\7.4electric\electric.c(22): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  e:\c\section7\7.4electric\7.4electric\electric.c(22): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  7.4electric.vcxproj -> E:\c\Section7\7.4electric\Debug\7.4electric.exe
+  7.4electric.vcxproj -> E:\c\Section7\7.4electric\Debug\7.4electric.pdb (Partial PDB)
