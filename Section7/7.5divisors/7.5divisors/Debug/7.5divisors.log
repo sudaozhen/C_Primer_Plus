@@ -1,0 +1,4 @@
+﻿  divisors.c
+e:\c_primer_plus\section7\7.5divisors\7.5divisors\divisors.c(12): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  e:\c_primer_plus\section7\7.5divisors\7.5divisors\divisors.c(12): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  7.5divisors.vcxproj -> E:\C_Primer_Plus\Section7\7.5divisors\Debug\7.5divisors.exe
